@@ -1,2 +1,2 @@
-# ReactEcommerceTut
-Tutorial creating an Ecommerce site in React
+# ReactEcommerce
+Sample Ecommerce site in React
